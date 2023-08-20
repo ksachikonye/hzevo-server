@@ -1,0 +1,10 @@
+[
+	{
+	"vO2max": 49,
+	"vO2Rest": 3.5,
+	"vO2_reserve": 42.5,
+	"oxygen_extraction_ratio": 166619,
+	"oxygen_delivery":1164.36,
+	"maximum_expiratory_flow_variability":7.462
+	}
+]

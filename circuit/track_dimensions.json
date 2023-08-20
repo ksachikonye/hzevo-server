@@ -1,0 +1,22 @@
+[
+	{
+	"lane": 3,
+	"lap_length": 414.704,
+	"curve_radius": 38.94,
+	"adjusted_curve_radius": 39.14,
+	"straights":84.39,
+	"curves":122.962,
+	"stagger":14.703,
+	"com_position":30,
+	"avg_num_strides":82,
+	"degree_per_stride": 2.1,
+	"track_stiffness": 2200,
+	"track_compliance": 557,
+	"track_top_layer": "polyutherene",
+	"track_bottom_layer": "rubber",
+	"track_top_length": 1.2,
+	"track_bottom_length": 2.4,
+	"track_spring_konstant": 1000000,
+	"track_damping_constant": 100000
+	}
+]

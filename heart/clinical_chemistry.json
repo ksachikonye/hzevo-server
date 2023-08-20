@@ -1,0 +1,29 @@
+[
+	{
+	"sodium": 139,
+	"potassium": 4.3,
+	"calcium": 2.41,
+	"magnesium": 2.1,
+	"iron": 87,
+	"gpt": 40,
+	"ggt": 21,
+	"creatine_kinase": 197,
+	"urea": 37,
+	"blood_urea_nitrogen": 17.3,
+	"creatinine": 1.04,
+	"uric_acid": 5.2,
+	"cdk_epi": 197,
+	"hdl_cholesterol": 60,
+	"ldl_cholesterol": 120,
+	"triglycerides": 109,
+	"blood_glucose": 83,
+	"cholesterol": 195,
+	"thyroid_stimulating_hormone": 2.97,
+	"serum_osmolarity": 278.22,
+	"serum_osmolality": 378.3,
+	"plasma_osmolality": 288.78,
+	"anion_gap": 20.1
+	}
+]
+
+

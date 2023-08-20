@@ -1,0 +1,301 @@
+{
+    "date": "2021-06-23",
+    "start_datetime_utc": "2021-06-22T22:00:00+00:00",
+    "end_datetime_utc": "2021-06-23T21:59:59+00:00",
+    "timezones": [
+        [
+            946684800,
+            "Europe/Berlin"
+        ]
+    ],
+    "aggregates": {
+        "rest_day": {
+            "indicator": 0,
+            "reason": null
+        },
+        "distance": {
+            "sum": 4188.7989538560005
+        },
+        "active_time": {
+            "sum": 0
+        },
+        "steps": {
+            "sum": 3213
+        },
+        "sleep": {
+            "sum": 0,
+            "details": {
+                "deep_sleep": {
+                    "sum": 0
+                },
+                "light_sleep": {
+                    "sum": 0
+                },
+                "awake": {
+                    "sum": 0
+                },
+                "time_to_sleep": {
+                    "sum": 0
+                },
+                "times_awakened": {
+                    "sum": 0
+                }
+            }
+        },
+        "workouts": {
+            "count": 4,
+            "active_time": {
+                "sum": 1142
+            },
+            "energy_expended": {
+                "sum": 1263568
+            }
+        },
+        "heart_rate_resting": {
+            "latest": null,
+            "latest_datetime_utc": null
+        },
+        "bodymass": {
+            "latest": 78.527,
+            "latest_datetime_utc": "2020-11-27T21:29:21+00:00"
+        },
+        "bmi": {
+            "latest": 23.97
+        },
+        "fat_mass_percent": {
+            "latest": 16.9
+        },
+        "energy_expended": {
+            "sum": 1263568
+        },
+        "target_net_energy": {
+            "latest": null
+        },
+        "energy_consumed": {
+            "sum": null,
+            "details": {
+                "breakfast": {
+                    "sum": null
+                },
+                "lunch": {
+                    "sum": null
+                },
+                "dinner": {
+                    "sum": null
+                },
+                "snack": {
+                    "sum": null
+                }
+            }
+        },
+        "nutrients_consumed": {
+            "protein": {
+                "sum": null,
+                "details": {
+                    "breakfast": {
+                        "sum": null
+                    },
+                    "lunch": {
+                        "sum": null
+                    },
+                    "dinner": {
+                        "sum": null
+                    },
+                    "snack": {
+                        "sum": null
+                    }
+                }
+            },
+            "carbohydrates": {
+                "sum": null,
+                "details": {
+                    "breakfast": {
+                        "sum": null
+                    },
+                    "lunch": {
+                        "sum": null
+                    },
+                    "dinner": {
+                        "sum": null
+                    },
+                    "snack": {
+                        "sum": null
+                    }
+                }
+            },
+            "fats": {
+                "sum": null,
+                "details": {
+                    "breakfast": {
+                        "sum": null
+                    },
+                    "lunch": {
+                        "sum": null
+                    },
+                    "dinner": {
+                        "sum": null
+                    },
+                    "snack": {
+                        "sum": null
+                    }
+                }
+            }
+        }
+    },
+    "metrics": {
+        "distance": [],
+        "steps": [],
+        "sleep": [],
+        "energy_expended": []
+    },
+    "workouts": [
+        {
+            "name": "Ran 1.08 km on 06/23/21",
+            "start_datetime_utc": "2021-06-23T09:04:59+00:00",
+            "end_datetime_utc": "2021-06-23T09:09:49+00:00",
+            "aggregates": {
+                "details": {
+                    "distance": {
+                        "sum": 1078.75937664
+                    },
+                    "steps": {
+                        "sum": 778
+                    },
+                    "active_time": {
+                        "sum": 291
+                    },
+                    "energy_expended": {
+                        "sum": 305432
+                    }
+                }
+            },
+            "_links": {
+                "self": [
+                    {
+                        "href": "/v7.1/workout/5874945127/",
+                        "id": "5874945127"
+                    }
+                ],
+                "activity_type": [
+                    {
+                        "href": "/v7.1/activity_type/16/",
+                        "id": "16"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "1,00km Run",
+            "start_datetime_utc": "2021-06-23T09:05:11+00:00",
+            "end_datetime_utc": "2021-06-23T09:09:49+00:00",
+            "aggregates": {
+                "details": {
+                    "distance": {
+                        "sum": 1001.029670784
+                    },
+                    "steps": {
+                        "sum": 824
+                    },
+                    "active_time": {
+                        "sum": 278
+                    },
+                    "energy_expended": {
+                        "sum": 313800
+                    }
+                }
+            },
+            "_links": {
+                "self": [
+                    {
+                        "href": "/v7.1/workout/5874949075/",
+                        "id": "5874949075"
+                    }
+                ],
+                "activity_type": [
+                    {
+                        "href": "/v7.1/activity_type/16/",
+                        "id": "16"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ran 1.09 km on 06/23/21",
+            "start_datetime_utc": "2021-06-23T09:18:11+00:00",
+            "end_datetime_utc": "2021-06-23T09:23:05+00:00",
+            "aggregates": {
+                "details": {
+                    "distance": {
+                        "sum": 1085.7101333760002
+                    },
+                    "steps": {
+                        "sum": 789
+                    },
+                    "active_time": {
+                        "sum": 295
+                    },
+                    "energy_expended": {
+                        "sum": 326352
+                    }
+                }
+            },
+            "_links": {
+                "self": [
+                    {
+                        "href": "/v7.1/workout/5874945172/",
+                        "id": "5874945172"
+                    }
+                ],
+                "activity_type": [
+                    {
+                        "href": "/v7.1/activity_type/16/",
+                        "id": "16"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "1,02km Run",
+            "start_datetime_utc": "2021-06-23T09:18:27+00:00",
+            "end_datetime_utc": "2021-06-23T09:23:05+00:00",
+            "aggregates": {
+                "details": {
+                    "distance": {
+                        "sum": 1023.299773056
+                    },
+                    "steps": {
+                        "sum": 822
+                    },
+                    "active_time": {
+                        "sum": 278
+                    },
+                    "energy_expended": {
+                        "sum": 317984
+                    }
+                }
+            },
+            "_links": {
+                "self": [
+                    {
+                        "href": "/v7.1/workout/5874949027/",
+                        "id": "5874949027"
+                    }
+                ],
+                "activity_type": [
+                    {
+                        "href": "/v7.1/activity_type/16/",
+                        "id": "16"
+                    }
+                ]
+            }
+        }
+    ],
+    "_links": {
+        "user": [
+            {
+                "href": "/v7.1/user/184005472/",
+                "id": "184005472"
+            }
+        ]
+    }
+}

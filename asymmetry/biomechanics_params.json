@@ -1,0 +1,13 @@
+[
+	{
+	"foot_cm": [0.93, 0.062],
+	"leg_cm": [0.858, 0.359],
+	"thigh_cm": [0.783,0.764],
+	"lower_limb_cm": [0.818, 0.584],
+	"inertia_foot": 0.01,
+	"inertia_leg": 0.069 ,
+	"inertia_thigh": 0.145,
+	"inertia_lower_limb": 1.063,
+	"inertia_hip": 2.803
+	}
+]

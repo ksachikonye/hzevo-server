@@ -1,0 +1,15 @@
+[
+	{
+	"vital_capacity": 3375.0,
+	"endotracheal_width": 7.152,
+	"endotracheal_depth": 22.0,
+	"tidal_volume":526.40,
+	"minute_volume": 31.710,
+	"lung_pH20": 150,
+	"alveoli_air_pO2": 104.6,
+	"alveoli_air_pCO2": 35,
+	"residual_volume": 1.4,
+	"lung_volume": 1.52,
+	"lung_capacity": 1.596
+	}
+]

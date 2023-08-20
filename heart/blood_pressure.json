@@ -1,0 +1,13 @@
+[
+	{
+	"sys_pressure": 176,
+	"dia_pressure": 110,
+	"pulse_wave_velocity": 6.5,
+	"pulse_pressure": 66,
+	"stroke_volume": 119.23,
+	"cardiac_index": 3.034,
+	"stroke_volume_index": 58.35,
+	"cardiac_output": 6.26,
+	"blood_volume": 10.68
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+	"blood_volume": 10.68,
+	"oxygen_consumption": 143.1,
+	"normal_arterial_gradient": 11,
+	"oxygen_pressure_gradient": 46,
+	"oxygen_carrying_capacity": 20.1,
+	"bound_oxygen": 22.0,
+	"dissolved_oxygen": 0.03,
+	"arterial_oxygen_concentration":186.4,
+	"venous_oxygen_concentration": 145.7,
+	"pf_ratio":521.052,
+	"sO2_fiO2_ratio": 500,
+	"oxygenation_index": 0.02,
+	"respiration_index": 0.10,
+	"pO2": 99.89,
+	"sO2": 95,
+	"alveoli_blood_pO2": 94.6,
+	"non_lung_capillaries_pO2": 22.0,
+	"arterial_blood_pCO2": 45,
+	"venous_blood_pCO2": 50,
+	"cell_pCO2": 50,
+	"rate_of_oxygen_diffusion_across_capillary":2.64
+	}
+]
+
+

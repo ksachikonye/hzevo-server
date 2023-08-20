@@ -1,0 +1,18 @@
+[
+	{
+	"temperature": 12.2,
+	"wind": 13,
+	"wind_direction": "North",
+	"humidity": 58,
+	"air_density": 1.2471,
+	"altitude": 537 ,
+	"illmunance": 120,
+	"dew_point": 6.1,
+	"pressure": 1023.5,
+	"pressure_dryair":760.5,
+	"pressure_water_vapour": 7,
+	"ambient_air_pCO2": 0.3,
+	"atm_oxygen_content": 0.19,
+	"atm_oxygen_pressure": 145.73
+	}
+]
