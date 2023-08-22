@@ -1,0 +1,233 @@
+Track - Apr - Ascherbach -speed, 20.2
+Swimming - Sep - Porec -speed, 4.2
+Trail - Sep - Cevar-Porat -speed, 11.0
+Cycling - Aug - Eichenau -speed, 34.0
+Cycling - Jul - Puchheim -speed, 32.5
+Swimming - Sep - Cannero -speed, 3.4
+Swimming - Jun - Marzling -speed, 2.9
+Snowboard - Mar - Kitzsteinhorn -speed, 18.9
+Longboard - Jan - Port Vell -speed, 21.2
+Alpine Skiing - May - Jachymov -speed, 14.8
+Longboard - Apr - Bad Gastein -speed, 45.1
+Trail - Jun - Buchelweg -speed, 12.3
+Trail - Jul - Buchelweg -speed, 10.9
+Mountainboard - May - Buchelweg -speed, 16.38
+Mountainboard - Aug - Buchelweg -speed, 24.3
+Trail - May - Buchelweg -speed, 11.3
+Trail - May - Zweigstrasse -speed, 37.0
+Longboard - Jul - Zweigstrasse -speed, 48.0
+Trail - Nov - Lerchenfeld -speed, 37.0
+Trail - Feb - Lerchenfeld -speed, 11.2
+Track - Jan - Savoyer Au -speed, 20.1
+Track - Feb - Savoyer Au -speed, 16.9
+Track - Dec - Savoyer Au -speed, 24.4
+Cycling - Oct - Riegerau -speed, 38.9
+Cycling - Sep - Eittingermoos -speed, 39.4
+Longboard - Feb - Zaragoza -speed, 27.0
+Longboard - Mar - Montserrat -speed, 64.0
+Longboard - Aug - Ljubljana -speed, 16.0
+Windsurfing - Sep - Cannobio -speed, 19.1
+Longboard - Feb - Monaco -speed, 32.0
+Longboard - Mar - Antibes -speed, 17.3
+Longboard - Feb - Zurich -speed, 18.3
+Longboard - Sep - Novigrad -speed, 65.3
+Track - Apr - Ascherbach -heartRate, 172
+Swimming - Sep - Porec -heartRate, 113
+Trail - Sep - Cevar-Porat -heartRate, 178
+Cycling - Aug - Eichenau -heartRate, 162
+Cycling - Jul - Puchheim -heartRate, 160
+Swimming - Sep - Cannero -heartRate, 120
+Swimming - Jun - Marzling -heartRate, 115
+Snowboard - Mar - Kitzsteinhorn -heartRate, 127
+Longboard - Jan - Port Vell -heartRate, 140
+Alpine Skiing - May - Jachymov -heartRate, 100
+Longboard - Apr - Bad Gastein -heartRate, 149
+Trail - Jun - Buchelweg -heartRate, 158
+Trail - Jul - Buchelweg -heartRate, 180
+Mountainboard - May - Buchelweg -heartRate, 138
+Mountainboard - Aug - Buchelweg -heartRate, 140
+Trail - May - Buchelweg -heartRate, 168
+Trail - May - Zweigstrasse -heartRate, 191
+Longboard - Jul - Zweigstrasse -heartRate, 158
+Trail - Nov - Lerchenfeld -heartRate, 192
+Trail - Feb - Lerchenfeld -heartRate, 173
+Track - Jan - Savoyer Au -heartRate, 170
+Track - Feb - Savoyer Au -heartRate, 166
+Track - Dec - Savoyer Au -heartRate, 174
+Cycling - Oct - Riegerau -heartRate, 172
+Cycling - Sep - Eittingermoos -heartRate, 155
+Longboard - Feb - Zaragoza -heartRate, 140
+Longboard - Mar - Montserrat -heartRate, 162
+Longboard - Aug - Ljubljana -heartRate, 135
+Windsurfing - Sep - Cannobio -heartRate, 114
+Longboard - Feb - Monaco -heartRate, 121
+Longboard - Mar - Antibes -heartRate, 120
+Longboard - Feb - Zurich -heartRate, 141
+Longboard - Sep - Novigrad -heartRate, 164
+Track - Apr - Ascherbach -sleep, 54
+Swimming - Sep - Porec -sleep, 60
+Trail - Sep - Cevar-Porat -sleep, 51
+Cycling - Aug - Eichenau -sleep, 49
+Cycling - Jul - Puchheim -sleep, 43
+Swimming - Sep - Cannero -sleep, 48
+Swimming - Jun - Marzling -sleep, 57
+Snowboard - Mar - Kitzsteinhorn -sleep, 41
+Longboard - Jan - Port Vell -sleep, 45
+Alpine Skiing - May - Jachymov -sleep, 63
+Longboard - Apr - Bad Gastein -sleep, 53
+Trail - Jun - Buchelweg -sleep, 35
+Trail - Jul - Buchelweg -sleep, 62
+Mountainboard - May - Buchelweg -sleep, 68
+Mountainboard - Aug - Buchelweg -sleep, 49
+Trail - May - Buchelweg -sleep, 58
+Trail - May - Zweigstrasse -sleep, 61
+Longboard - Jul - Zweigstrasse -sleep, 43
+Trail - Nov - Lerchenfeld -sleep, 45
+Trail - Feb - Lerchenfeld -sleep, 59
+Track - Jan - Savoyer Au -sleep, 64
+Track - Feb - Savoyer Au -sleep, 31
+Track - Dec - Savoyer Au -sleep, 27
+Cycling - Oct - Riegerau -sleep, 30
+Cycling - Sep - Eittingermoos -sleep, 39
+Longboard - Feb - Zaragoza -sleep, 21
+Longboard - Mar - Montserrat -sleep, 53
+Longboard - Aug - Ljubljana -sleep, 49
+Windsurfing - Sep - Cannobio -sleep, 41
+Longboard - Feb - Monaco -sleep, 46
+Longboard - Mar - Antibes -sleep, 50
+Longboard - Feb - Zurich -sleep, 57
+Longboard - Sep - Novigrad -sleep, 60
+Track - Apr - Ascherbach -breathingRate, 16.0
+Swimming - Sep - Porec -breathingRate, 16.9
+Trail - Sep - Cevar-Porat -breathingRate, 14.2
+Cycling - Aug - Eichenau -breathingRate, 16.6
+Cycling - Jul - Puchheim -breathingRate, 16.5
+Swimming - Sep - Cannero -breathingRate, 16.9
+Swimming - Jun - Marzling -breathingRate, 15.2
+Snowboard - Mar - Kitzsteinhorn -breathingRate, 15.8
+Longboard - Jan - Port Vell -breathingRate, 17.5
+Alpine Skiing - May - Jachymov -breathingRate, 18.0
+Longboard - Apr - Bad Gastein -breathingRate, 17.2
+Trail - Jun - Buchelweg -breathingRate, 16.1
+Trail - Jul - Buchelweg -breathingRate, 16.6
+Mountainboard - May - Buchelweg -breathingRate, 16.5
+Mountainboard - Aug - Buchelweg -breathingRate, 17.1
+Trail - May - Buchelweg -breathingRate, 15.9
+Trail - May - Zweigstrasse -breathingRate, 17.6
+Longboard - Jul - Zweigstrasse -breathingRate, 16.4
+Trail - Nov - Lerchenfeld -breathingRate, 16.8
+Trail - Feb - Lerchenfeld -breathingRate, 16.4
+Track - Jan - Savoyer Au -breathingRate, 18.1
+Track - Feb - Savoyer Au -breathingRate, 17.8
+Track - Dec - Savoyer Au -breathingRate, 16.5
+Cycling - Oct - Riegerau -breathingRate, 16.9
+Cycling - Sep - Eittingermoos -breathingRate, 16.2
+Longboard - Feb - Zaragoza -breathingRate, 16.6
+Longboard - Mar - Montserrat -breathingRate, 16.1
+Longboard - Aug - Ljubljana -breathingRate, 16.5
+Windsurfing - Sep - Cannobio -breathingRate, 16.4
+Longboard - Feb - Monaco -breathingRate, 15.6
+Longboard - Mar - Antibes -breathingRate, 15.8
+Longboard - Feb - Zurich -breathingRate, 16.6
+Longboard - Sep - Novigrad -breathingRate, 16.4
+Track - Apr - Ascherbach -calories, 19
+Swimming - Sep - Porec -calories, 10
+Trail - Sep - Cevar-Porat -calories, 197
+Cycling - Aug - Eichenau -calories, 398
+Cycling - Jul - Puchheim -calories, 517
+Swimming - Sep - Cannero -calories, 5
+Swimming - Jun - Marzling -calories, 12
+Snowboard - Mar - Kitzsteinhorn -calories, 77
+Longboard - Jan - Port Vell -calories, 410
+Alpine Skiing - May - Jachymov -calories, 43
+Longboard - Apr - Bad Gastein -calories, 123
+Trail - Jun - Buchelweg -calories, 148
+Trail - Jul - Buchelweg -calories, 156
+Mountainboard - May - Buchelweg -calories, 81
+Mountainboard - Aug - Buchelweg -calories, 94
+Trail - May - Buchelweg -calories, 191
+Trail - May - Zweigstrasse -calories, 258
+Longboard - Jul - Zweigstrasse -calories, 34
+Trail - Nov - Lerchenfeld -calories, 450
+Trail - Feb - Lerchenfeld -calories, 371
+Track - Jan - Savoyer Au -calories, 16
+Track - Feb - Savoyer Au -calories, 20
+Track - Dec - Savoyer Au -calories, 18
+Cycling - Oct - Riegerau -calories, 285
+Cycling - Sep - Eittingermoos -calories, 270
+Longboard - Feb - Zaragoza -calories, 213
+Longboard - Mar - Montserrat -calories, 489
+Longboard - Aug - Ljubljana -calories, 19
+Windsurfing - Sep - Cannobio -calories, 56
+Longboard - Feb - Monaco -calories, 40
+Longboard - Mar - Antibes -calories, 24
+Longboard - Feb - Zurich -calories, 32
+Longboard - Sep - Novigrad -calories, 19
+Track - Apr - Ascherbach -heartRateVariability, 83
+Swimming - Sep - Porec -heartRateVariability, 67
+Trail - Sep - Cevar-Porat -heartRateVariability, 77
+Cycling - Aug - Eichenau -heartRateVariability, 80
+Cycling - Jul - Puchheim -heartRateVariability, 89
+Swimming - Sep - Cannero -heartRateVariability, 52
+Swimming - Jun - Marzling -heartRateVariability, 82
+Snowboard - Mar - Kitzsteinhorn -heartRateVariability, 101
+Longboard - Jan - Port Vell -heartRateVariability, 54
+Alpine Skiing - May - Jachymov -heartRateVariability, 86
+Longboard - Apr - Bad Gastein -heartRateVariability, 90
+Trail - Jun - Buchelweg -heartRateVariability, 78
+Trail - Jul - Buchelweg -heartRateVariability, 84
+Mountainboard - May - Buchelweg -heartRateVariability, 55
+Mountainboard - Aug - Buchelweg -heartRateVariability, 59
+Trail - May - Buchelweg -heartRateVariability, 80
+Trail - May - Zweigstrasse -heartRateVariability, 87
+Longboard - Jul - Zweigstrasse -heartRateVariability, 49
+Trail - Nov - Lerchenfeld -heartRateVariability, 79
+Trail - Feb - Lerchenfeld -heartRateVariability, 86
+Track - Jan - Savoyer Au -heartRateVariability, 98
+Track - Feb - Savoyer Au -heartRateVariability, 94
+Track - Dec - Savoyer Au -heartRateVariability, 99
+Cycling - Oct - Riegerau -heartRateVariability, 80
+Cycling - Sep - Eittingermoos -heartRateVariability, 93
+Longboard - Feb - Zaragoza -heartRateVariability, 43
+Longboard - Mar - Montserrat -heartRateVariability, 64
+Longboard - Aug - Ljubljana -heartRateVariability, 60
+Windsurfing - Sep - Cannobio -heartRateVariability, 53
+Longboard - Feb - Monaco -heartRateVariability, 41
+Longboard - Mar - Antibes -heartRateVariability, 62
+Longboard - Feb - Zurich -heartRateVariability, 55
+Longboard - Sep - Novigrad -heartRateVariability, 76
+Track - Apr - Ascherbach -sO2, 95.0
+Swimming - Sep - Porec -sO2, 93.9
+Trail - Sep - Cevar-Porat -sO2, 96.0
+Cycling - Aug - Eichenau -sO2, 95.0
+Cycling - Jul - Puchheim -sO2, 96.0
+Swimming - Sep - Cannero -sO2, 94.0
+Swimming - Jun - Marzling -sO2, 97.0
+Snowboard - Mar - Kitzsteinhorn -sO2, 95.0
+Longboard - Jan - Port Vell -sO2, 93.0
+Alpine Skiing - May - Jachymov -sO2, 94.0
+Longboard - Apr - Bad Gastein -sO2, 95.0
+Trail - Jun - Buchelweg -sO2, 95.0
+Trail - Jul - Buchelweg -sO2, 94.0
+Mountainboard - May - Buchelweg -sO2, 95.0
+Mountainboard - Aug - Buchelweg -sO2, 94.0
+Trail - May - Buchelweg -sO2, 97.0
+Trail - May - Zweigstrasse -sO2, 95.0
+Longboard - Jul - Zweigstrasse -sO2, 97.0
+Trail - Nov - Lerchenfeld -sO2, 98.0
+Trail - Feb - Lerchenfeld -sO2, 94.0
+Track - Jan - Savoyer Au -sO2, 97.0
+Track - Feb - Savoyer Au -sO2, 98.0
+Track - Dec - Savoyer Au -sO2, 97.0
+Cycling - Oct - Riegerau -sO2, 95.0
+Cycling - Sep - Eittingermoos -sO2, 96.0
+Longboard - Feb - Zaragoza -sO2, 94.0
+Longboard - Mar - Montserrat -sO2, 93.0
+Longboard - Aug - Ljubljana -sO2, 95.0
+Windsurfing - Sep - Cannobio -sO2, 94.0
+Longboard - Feb - Monaco -sO2, 95.0
+Longboard - Mar - Antibes -sO2, 96.0
+Longboard - Feb - Zurich -sO2, 95.0
+Longboard - Sep - Novigrad -sO2, 97.0
+
+
